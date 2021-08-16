@@ -1,0 +1,10 @@
+export const HOME = "/";
+export const BOOKS = "/books";
+export const NOT_FOUND = "";
+export const LOGIN = "/login";
+export const DETAILBOOK = "/books/:id";
+export const ABOUT = "/about";
+export const LOGOUT = "/logout";
+export const REGISTER = "/register";
+export const PROFILE = "/profile";
+export const CART = "/cart";
